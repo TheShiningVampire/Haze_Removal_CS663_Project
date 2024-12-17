@@ -79,7 +79,7 @@ Guided Filter improves results by refining the transmission map and preserving e
 |------------|---------------|------------|
 |  ![image](https://github.com/user-attachments/assets/41e30ca6-849c-44f1-b1f8-46a9027e6cac) | ![image](https://github.com/user-attachments/assets/2207efea-f32e-4c66-afca-a8416fb775cc) | **0.198** |
 |  ![image](https://github.com/user-attachments/assets/85846e08-84f2-47c9-a292-26ea1ae839a4) | ![image](https://github.com/user-attachments/assets/f6f9bef0-2a46-408f-bac6-ce2ec701db74) | **0.000** |
-| Image 3    | ![Image3](./Results/dehazed_3.png) | **0.244** |
+|  ![image](https://github.com/user-attachments/assets/d184a3ef-8b02-45dc-a851-636c0131f054) | ![image](https://github.com/user-attachments/assets/d06e5b2a-f97e-49b1-83d3-58df86dc141e) | **0.244** |
 
 ---
 
@@ -115,7 +115,3 @@ Guided Filter improves results by refining the transmission map and preserving e
 ## References
 
 - K. He, J. Sun, and X. Tang, *"Single Image Haze Removal Using Dark Channel Prior"*, CVPR 2009.
-
----
-
-## Contributors
