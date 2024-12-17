@@ -77,7 +77,9 @@ Guided Filter improves results by refining the transmission map and preserving e
 
 | Hazy Image | Dehazed Image | RMSE Value |
 |------------|---------------|------------|
-| Image 1    | ![Image1](./Results/dehazed_1.png) | **0.198** |
+|  ![image](https://github.com/user-attachments/assets/41e30ca6-849c-44f1-b1f8-46a9027e6cac)
+   | ![Uploading image.png…]()
+ | **0.198** |
 | Image 2    | ![Image2](./Results/dehazed_2.png) | **0.000** |
 | Image 3    | ![Image3](./Results/dehazed_3.png) | **0.244** |
 
